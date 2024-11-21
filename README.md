@@ -1,7 +1,7 @@
 # azure-resume
 My own azure resume, following 
 
-I am so happy I am doing this ;)
+I am so happy I am doing this 
 
 ## First Steps
 -Frontend Folder
